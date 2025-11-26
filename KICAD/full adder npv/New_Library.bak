@@ -161,7 +161,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at -186.69 2.54 0)
 				(length 50)
 				(name "C4"
@@ -559,7 +559,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at -186.69 2.54 0)
 				(length 50)
 				(name "C4"
@@ -849,7 +849,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at -186.69 2.54 0)
 				(length 50)
 				(name "C4"
@@ -1139,7 +1139,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at -186.69 2.54 0)
 				(length 50)
 				(name "C4"
@@ -1429,7 +1429,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at -186.69 2.54 0)
 				(length 50)
 				(name "C4"
@@ -1719,7 +1719,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at -186.69 2.54 0)
 				(length 50)
 				(name "C4"
@@ -2009,7 +2009,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at -186.69 2.54 0)
 				(length 50)
 				(name "C4"
@@ -2299,7 +2299,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at -186.69 2.54 0)
 				(length 50)
 				(name "C4"
@@ -2589,7 +2589,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at -186.69 2.54 0)
 				(length 50)
 				(name "C4"
@@ -2879,7 +2879,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at -186.69 2.54 0)
 				(length 50)
 				(name "C4"
@@ -3169,7 +3169,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at -186.69 2.54 0)
 				(length 50)
 				(name "C4"
@@ -3459,7 +3459,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at -186.69 2.54 0)
 				(length 50)
 				(name "C4"
@@ -3749,7 +3749,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at -186.69 2.54 0)
 				(length 50)
 				(name "C4"
@@ -4039,7 +4039,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at -186.69 2.54 0)
 				(length 50)
 				(name "C4"
@@ -4329,7 +4329,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at -186.69 2.54 0)
 				(length 50)
 				(name "C4"
@@ -4619,7 +4619,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at -186.69 2.54 0)
 				(length 50)
 				(name "C4"
@@ -4771,7 +4771,7 @@
 				)
 			)
 			(pin input line
-				(at -8.89 5.08 270)
+				(at -10.16 5.08 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -4789,7 +4789,7 @@
 				)
 			)
 			(pin input line
-				(at 1.27 5.08 270)
+				(at 2.54 5.08 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -4825,7 +4825,7 @@
 				)
 			)
 			(pin input line
-				(at 3.81 5.08 270)
+				(at 5.08 5.08 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -4843,7 +4843,7 @@
 				)
 			)
 			(pin input line
-				(at 6.35 5.08 270)
+				(at 7.62 5.08 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -4915,7 +4915,7 @@
 				)
 			)
 			(pin input line
-				(at -6.35 5.08 270)
+				(at -5.08 5.08 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -4933,7 +4933,7 @@
 				)
 			)
 			(pin input line
-				(at -5.08 5.08 270)
+				(at -2.54 5.08 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5005,7 +5005,7 @@
 				)
 			)
 			(pin input line
-				(at -1.27 5.08 270)
+				(at 0 5.08 270)
 				(length 2.54)
 				(name ""
 					(effects
