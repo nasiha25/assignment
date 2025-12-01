@@ -13428,7 +13428,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 97.79 78.74 0)
 			(effects
 				(font
@@ -13871,7 +13871,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:switch1"
 			(at 54.61 179.07 0)
 			(effects
 				(font
@@ -14215,7 +14215,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:switch1"
 			(at 125.73 179.07 0)
 			(effects
 				(font
@@ -14628,7 +14628,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:switch1"
 			(at 63.5 160.02 0)
 			(effects
 				(font
@@ -14976,7 +14976,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:switch1"
 			(at 36.83 179.07 0)
 			(effects
 				(font
@@ -15253,7 +15253,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 147.32 78.74 0)
 			(effects
 				(font
@@ -15425,7 +15425,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:switch1"
 			(at 45.72 160.02 0)
 			(effects
 				(font
@@ -15699,7 +15699,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:switch1"
 			(at 72.39 179.07 0)
 			(effects
 				(font
@@ -16113,7 +16113,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:switch1"
 			(at 116.84 160.02 0)
 			(effects
 				(font
@@ -16321,7 +16321,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:switch1"
 			(at 90.17 179.07 0)
 			(effects
 				(font
@@ -17210,7 +17210,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:switch1"
 			(at 152.4 160.02 0)
 			(effects
 				(font
@@ -18236,7 +18236,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:switch1"
 			(at 81.28 160.02 0)
 			(effects
 				(font
@@ -18373,7 +18373,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_BarrelJack:BarrelJack_Horizontal"
 			(at 59.69 40.386 0)
 			(effects
 				(font
@@ -20356,7 +20356,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:switch1"
 			(at 107.95 179.07 0)
 			(effects
 				(font
@@ -21599,7 +21599,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:switch1"
 			(at 176.53 144.78 0)
 			(effects
 				(font
@@ -21804,7 +21804,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:switch1"
 			(at 27.94 160.02 0)
 			(effects
 				(font
@@ -22355,7 +22355,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:switch1"
 			(at 99.06 160.02 0)
 			(effects
 				(font
@@ -22905,7 +22905,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:switch1"
 			(at 161.29 179.07 0)
 			(effects
 				(font
@@ -23044,7 +23044,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:switch1"
 			(at 134.62 160.02 0)
 			(effects
 				(font
@@ -24000,7 +24000,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:switch1"
 			(at 143.51 179.07 0)
 			(effects
 				(font
